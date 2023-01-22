@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a MEMCM administrator
-- 👀 MEMCM Current Branch
+- 👋 Hi, I’m a MECM administrator
+- 👀 MECM Current Branch
 - 🌱 I’m learning powershell
 - 💞️ I’m looking to collaborate on scripts
 - 📫gavalencia@cox.net
